@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sara Bahaa</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        مرحبًا بك في موقع Sara Bahaa
+    </header>
+    <section>
+        <h2>عن الموقع</h2>
+        <p>هذا موقع بسيط يمكن تعديله حسب الحاجة.</p>
+    </section>
+    <footer>
+        &copy; 2025 جميع الحقوق محفوظة - Sara Bahaa
+    </footer>
+</body>
+</html>
